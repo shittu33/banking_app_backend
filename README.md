@@ -1,16 +1,12 @@
 # Backend For Banking App
+A clean OOP backend that decleare the API endpoints to perform all the required operation for the Banking_app Front-end found [here](https://github.com/shittu33/Banking_app)
 
-....
 
-## Install the Application
+## Technologies
 
-Run this command from the directory in which you want to install your new Slim Framework application.
+* PHP
+* SQL
+* Slim Framework
 
-```bash
-composer create-project slim/slim-skeleton [my-app-name]
-```
+## 
 
-## List
-
-* Point your virtual host document root to your new application's `public/` directory.
-* Ensure `logs/` is web writable.
